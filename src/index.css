@@ -28,3 +28,10 @@ body{
   border-radius: 50%;
   object-fit: cover;
 }
+.card-main{
+  background-color: #131313;
+  color: #fff;
+  border: 1px solid red;
+  border-radius: 5px;
+  padding: 30px;
+}
